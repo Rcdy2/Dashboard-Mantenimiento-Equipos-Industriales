@@ -86,4 +86,4 @@ Crear una herramienta de **gestión de mantenimiento** que permita a supervisore
 - **Cálculo de tiempos:** Determinación de días de demora por orden y promedio por tipo de equipo.
 
 ## Conclusión
-Este dashboard de mantenimiento permite a las empresas industriales tener una visión clara y rápida del estado de sus equipos y órdenes de mantenimiento. Con métricas de ejecución, costos, diagnósticos y análisis de fallas, los equipos de mantenimiento y gerencia pueden identificar oportunidades de mejora, optimizar la planificación de mantenimientos preventivos, reducir costos correctivos y tomar decisiones informadas sobre reposición de equipos.
+Este dashboard de mantenimiento permite a empresas industriales tener una visión clara y rápida del estado de sus equipos y órdenes de mantenimiento. Con métricas de ejecución, costos, diagnósticos y análisis de fallas, los equipos de mantenimiento y gerencia pueden identificar oportunidades de mejora, optimizar la planificación de mantenimientos preventivos, reducir costos correctivos y tomar decisiones informadas sobre reposición de equipos.
